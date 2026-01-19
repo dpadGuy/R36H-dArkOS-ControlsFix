@@ -1,6 +1,9 @@
 # R36H-ControlsFix-dArkOS
 R36H-dArkOS-ControlsFix aims to bring the conventional R36H controls from ArkOS over to dArkOs.
-We use the R36H script from DeviceType which is from ArkOS in order to achieve the right hotkeys on dArkOS
+
+For this we use R36H.sh script from DeviceType which originates from ArkOS in order to assign the right hotkeys for the R36H.
+
+This should in theory also work on other consoles but i have not tested on others.
 
 # Menu Hotkeys:
 
@@ -9,3 +12,6 @@ We use the R36H script from DeviceType which is from ArkOS in order to achieve t
 **Drastic = L3**
 
 **RetroArch = Select + X**
+
+# Restoring To Default Controls
+Main Menu -> Options -> Advanced
