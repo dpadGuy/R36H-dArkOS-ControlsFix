@@ -8,7 +8,7 @@ This should in theory also work on other retro handheld consoles that do not hav
 # Install Process
 **Download the latest archive release which contains "DeviceType.zip", inside the archive you drag and drop the folder "DeviceType" inside "/roms/tools" or "EASYROMS/tools"**
 
-**Over to your console you you go "Main Menu -> Options -> Tools -> DeviceType"**
+**Over to your console you go "Main Menu -> Options -> Tools -> DeviceType"**
 
 **You then run "R36H"**
 
