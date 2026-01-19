@@ -26,3 +26,7 @@ This should in theory also work on other retro handheld consoles but i have not 
 
 # Restoring To Default Controls
 **"Main Menu -> Options -> Advanced"**
+
+# Credits
+https://github.com/christianhaitian/dArkOS
+https://github.com/christianhaitian/arkos
