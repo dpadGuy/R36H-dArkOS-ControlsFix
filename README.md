@@ -3,7 +3,7 @@ R36H-dArkOS-ControlsFix aims to bring the conventional R36H controls from ArkOS 
 
 For this we use R36H.sh script from DeviceType which originates from ArkOS in order to assign the right controls and hotkeys for the R36H.
 
-This should in theory also work on other retro handheld consoles but i have not tried on others.
+This should in theory also work on other retro handheld consoles that do not have a FN key but i have not tried on others.
 
 # Install Process
 **Download the latest archive release which contains "DeviceType.zip", inside the archive you drag and drop the folder "DeviceType" inside "/roms/tools" or "EASYROMS/tools"**
