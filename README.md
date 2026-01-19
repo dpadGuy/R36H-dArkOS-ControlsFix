@@ -1,2 +1,2 @@
 # R36H-ControlsFix-dArkOS
-Fix R36H controls on dArkOS.
+R36H controls fix on dArkOS.
