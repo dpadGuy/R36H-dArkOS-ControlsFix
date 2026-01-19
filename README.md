@@ -14,4 +14,4 @@ This should in theory also work on other consoles but i have not tested on other
 **RetroArch = Select + X**
 
 # Restoring To Default Controls
-Main Menu -> Options -> Advanced
+**Main Menu -> Options -> Advanced**
