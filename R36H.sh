@@ -30,7 +30,6 @@ while true; do
         if [ $? -eq 0 ]; then
             printf "\nSuccessfully set the default controls on standalone emulators for the\n"
             printf "R36H\n"
-			printf "Console will now restart...\n"
             sleep 5
         else
             printf "\nFailed to set the default controls on standalone emulators for the R36H\n"
